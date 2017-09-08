@@ -1,0 +1,22 @@
+{
+  "name": "kei-s.github.io",
+  "version": "1.0.0",
+  "description": "kei-s.github.io",
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.6"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}
