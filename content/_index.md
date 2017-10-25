@@ -1,5 +1,5 @@
 ---
-title: "_Index"
+title: "Kei Shiratsuchi / 白土 慧 / kei-s"
 date: 2017-08-30T18:34:13+09:00
 ---
 
