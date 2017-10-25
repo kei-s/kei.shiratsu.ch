@@ -24,3 +24,5 @@ git push origin master
 # Come Back up to the Project Root
 cd ..
 
+# Update submodule
+git submodule foreach git pull origin master
