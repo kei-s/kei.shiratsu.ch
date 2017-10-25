@@ -32,6 +32,7 @@ Other sites are listed on [http://tako3.com/http://kei.shiratsu.ch](http://tako3
 
 ## Publications
 
+- [WEB+DB PRESS Vol.100 作って学ぶ人工知能](http://gihyo.jp/magazine/wdpress/archive/2017/vol100), co-author of the special topic, 2017.8
 - [WEB+DB PRESS Vol.73 たのしい開発実況中継](http://gihyo.jp/magazine/wdpress/archive/2013/vol73), co-author of the special topic, 2013.2
 - WEB+DB PRESS Vol.63-68 Rubyわくわくナビ ([Vol.63](http://gihyo.jp/magazine/wdpress/archive/2011/vol63), [64](http://gihyo.jp/magazine/wdpress/archive/2011/vol64), [65](http://gihyo.jp/magazine/wdpress/archive/2011/vol65), [66](http://gihyo.jp/magazine/wdpress/archive/2012/vol66), [67](http://gihyo.jp/magazine/wdpress/archive/2012/vol67), [68](http://gihyo.jp/magazine/wdpress/archive/2012/vol68)), co-author of the running topic, 2011.6-2012.4
 
