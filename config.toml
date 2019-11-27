@@ -1,3 +1,4 @@
 baseURL = "https://kei.shiratsu.ch/"
 languageCode = "ja"
 title = "kei.shiratsu.ch"
+disableKinds = ["taxonomy", "taxonomyTerm"]
